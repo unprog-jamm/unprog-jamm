@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub Profile!
 
-I'm an IT student in FEU Cavite, Philippines ], with a passion for **technology**, **software development**, and **video games**. Currently learning and growing in the world of programming, particularly focusing on web development. 
+I'm an IT student in FEU Cavite, Philippines, with a passion for **technology**, **software development**, and **video games**. Currently learning and growing in the world of programming, particularly focusing on web development. 
 
 ### 🌱 What I'm currently working on:
 - A Laravel web app integrating **GPS** and **map routing** features (for Capstone)
