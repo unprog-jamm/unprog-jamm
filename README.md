@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub Profile!
 
-I'm an IT student in FEU Cavite, Philippines, with a passion for **technology**, **software development**, and **video games**. Currently learning and growing in the world of programming, particularly focusing on web development. 
+A Fresh Graduate of IT in the Philippines, with a passion for **technology**, **software development**, and **video games**. Currently learning and growing in the world of programming, particularly focusing on web development. 
 
 ### 🌱 What I'm currently working on:
 - A Laravel web app integrating **GPS** and **map routing** features (for Capstone)
@@ -23,8 +23,6 @@ I'm an IT student in FEU Cavite, Philippines, with a passion for **technology**,
 ### 🎮 Fun Facts:
 - I'm a huge fan of **multiplayer games** and love playing competitive games with friends.
 - I enjoy exploring new technologies and experimenting with **game development**.
-
-Feel free to check out my repositories and connect with me for collaboration or discussions on **technology** and **gaming**!
 
 ### 📫 How to reach me:
 - [Email](gabrielignaciosas@gmail.com)
