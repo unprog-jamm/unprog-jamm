@@ -6,7 +6,7 @@ A Fresh Graduate of IT in the Philippines, with a passion for **technology**, **
 
 ### 🌱 What I'm currently working on:
 - Currently trying to develop skills in **full-stack web development**.
-- Doing a 30-day Python programming guide and doing simple pprojects with Python
+- Doing a 30-day Python programming guide and doing simple projects with Python
 - Exploring **NEW** technologies.
 
 ### 💻 Technologies I work with:
