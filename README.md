@@ -5,12 +5,12 @@
 A Fresh Graduate of IT in the Philippines, with a passion for **technology**, **software development**, and **video games**. Currently learning and growing in the world of programming, particularly focusing on web development. 
 
 ### 🌱 What I'm currently working on:
-- A Laravel web app integrating **GPS** and **map routing** features (for Capstone)
 - Currently trying to develop skills in **full-stack web development**.
+- Doing a 30-day Python programming guide and doing simple pprojects with Python
 - Exploring **NEW** technologies.
 
 ### 💻 Technologies I work with:
-- **Languages**: PHP, JavaScript, HTML, CSS
+- **Languages**: PHP, JavaScript, Python, Java
 - **Frameworks**: Laravel, Bootstrap
 - **Libraries**: Leaflet.js, Geoapify API
 - **Tools**: Git, MySQL, VS Code
@@ -18,6 +18,7 @@ A Fresh Graduate of IT in the Philippines, with a passion for **technology**, **
 ### 🚀 What I'm learning:
 - Advanced **Laravel** features.
 - **Routing algorithms** and API integration.
+- Python Language and OOP
 - How to create optimized web applications using its **best practices**.
 
 ### 🎮 Fun Facts:
