@@ -26,7 +26,7 @@ A Fresh Graduate of IT in the Philippines, with a passion for **technology**, **
 - I enjoy exploring new technologies and experimenting with **game development**.
 
 ### 📫 How to reach me:
-- [Email](gabrielignaciosas@gmail.com)
+- Email: gabrielignaciosas@gmail.com
 - [LinkedIn](www.linkedin.com/in/gabriel-ignacio-50803a323)
 
 Thanks for stopping by! 😊
